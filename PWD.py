@@ -1,7 +1,7 @@
 import datetime
 import urllib2
 import json
-cookies = '_ga=GA1.2.175691132.1512419993; NSC_TJMJDFSUXFC_443_MC=ffffffff09391c2d45525d5f4f58455e445a4a423660; _gid=GA1.2.982517699.1520871066; CFID=2063323; CFTOKEN=80846660; _gat=1'
+cookies = 'PWD.py'
 delay=69
 weekdays = ('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday')
 def dol_scan(base):
